@@ -1,0 +1,92 @@
+body {
+	background: url("../images/pinkdust.png");
+	font-family: "Times New Roman";
+}
+
+h1 {
+	font-size: 30px;
+	font-weight: bold;
+
+}
+
+p {
+	font-weight: bold;
+}
+
+#header {
+	color: #fff;
+	background-color: #cc6600;
+	width: 250px;
+	height: 50px;
+	margin: 10px;
+	padding-top: 10px;
+	padding-bottom: 0px;
+	text-align: center;
+}
+
+#instructions {
+	color: #009900;
+	background-color: #fff1e6;
+	width: 400px;
+	height: 300px;
+	margin: 10px 10px;
+	margin-bottom: 0px;
+	padding-top: 20px;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+
+#randomNumber{
+	background-color: #9fdf9f;
+	width: 200px;
+	height: 100px;
+	margin: 10px;
+	float: left;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#number-to-guess {
+	color: #660066;
+	font-size: 50px;
+}
+
+.winsLosses {
+	background-color: #00ffff;
+	width: 75px;
+	height: 95px;
+	margin: 10px 0px 5px 0px;
+	float: left;
+	padding-top: 15px;
+	padding-left: 10px;
+}
+
+.crystals {
+	clear:both;
+	margin-left: 10px;
+}
+
+.click {
+	width: 80px;
+	height: 80px;
+
+}
+
+.totalScore, #score {
+	background-color: #009999;
+	margin: 10px;
+	width: 200px;
+}
+
+.totalScore {
+	height: 20px;
+	color: #fff;
+	padding-top: 5px;
+	padding-left: 2px;
+}
+
+#score {
+	height: 100px;
+	padding-left: 2px;
+	font-size: 50px;
+}
